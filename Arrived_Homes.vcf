@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+PROFILE:VCARD
+URL;VALUE=URI:https://arrivedhomes.com
+N;CHARSET=UTF-8:Alejandro Chouza;;;;
+FN;CHARSET=UTF-8:Alejandro Chouza
+ORG;CHARSET=UTF-8:Arrived Homes
+EMAIL:alejandro@arrivedhomes.com
+ADR;CHARSET=UTF-8:;;500 Yale Avenue North,;Seattle;WA;98109;USA
+END:VCARD
